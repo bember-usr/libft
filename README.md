@@ -1,4 +1,4 @@
-                                                # **42cursus' libft**
+   # **42cursus' libft**
 
 Development repo for 42cursus' libft project
 For further information about 42cursus and its projects, please refer to 42cursus repo.
