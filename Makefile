@@ -30,7 +30,8 @@ SRC =		ft_putchar_fd.c\
 			ft_strrev.c ft_bzero.c ft_split.c\
 			ft_itoa.c ft_atoi.c ft_sqrt.c
 
-OBJ =		$(SRC:.c=.o)
+OBJ_DIR =	obj/ 
+OBJ 	=	$(SRC:.c=.o)
 
 BONUS_S =	ft_lstadd_front.c ft_lstadd_back.c\
 			ft_lstdelone.c ft_lstclear.c ft_lstlast.c\
@@ -85,7 +86,7 @@ bonus: $(BONUS_O)
 
 clean:
 	@echo "$(FONT5)rm -f $(FONT6)$(OBJ) $(BONUS_O) \n"
-	rm -f $(OBJ) $(BONUS_O)
+	@rm -f obj/$(OBJ) $(BONUS_O)
 
 fclean: clean
 	@echo "$(FONT5)rm -f $(FONT6)$(NAME) \n"
