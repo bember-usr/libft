@@ -15,7 +15,6 @@ For detailed information, refer to the [subject](https://github.com/appinha/42cu
 into a library for use in other projects of the cursus.***
 
 **Functions from `<ctype.h>` library**
-  ```
   + ft_isascii - test for ASCII character.
   + ft_isalnum - alphanumeric character test.
   + ft_isalpha - alphabetic character test.
@@ -31,7 +30,6 @@ into a library for use in other projects of the cursus.***
   + ft_iscntrl * - control character test.
   + ft_tolower - upper case to lower case letter conversion.
   + ft_toupper - lower case to upper case letter conversion.
-  ```
 
 **Functions from `<stdlib.h>` library**
   ```
