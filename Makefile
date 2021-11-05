@@ -86,7 +86,7 @@ bonus: $(BONUS_O)
 
 clean:
 	@echo "$(FONT5)rm -f $(FONT6)$(OBJ) $(BONUS_O) \n"
-	@rm -f obj/$(OBJ) $(BONUS_O)
+	@rm -f $(OBJ) $(BONUS_O)
 
 fclean: clean
 	@echo "$(FONT5)rm -f $(FONT6)$(NAME) \n"
