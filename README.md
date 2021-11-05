@@ -15,7 +15,7 @@ For detailed information, refer to the [subject](https://github.com/appinha/42cu
 into a library for use in other projects of the cursus.***
 
 **Functions from `<ctype.h>` library**
-   ```
+ ```
      ft_isascii - test for ASCII character.
      ft_isalnum - alphanumeric character test.
      ft_isalpha - alphabetic character test.
@@ -31,15 +31,15 @@ into a library for use in other projects of the cursus.***
      ft_iscntrl * - control character test.
      ft_tolower - upper case to lower case letter conversion.
      ft_toupper - lower case to upper case letter conversion.
-   ```
+ ```
 **Functions from `<stdlib.h>` library**
-   ```
+ ```
      ft_atoi - convert ASCII string to integer.
      ft_atof * - convert ASCII string to integer.
      ft_calloc - memory allocation.
-   ```  
+ ```  
 **Functions from `<strings.h>` library**
-   ```
+ ```
      ft_bzero - write zeroes to a byte string.
      ft_memset - write a byte to a byte string.
      ft_memchr - locate byte in byte string.
@@ -47,7 +47,7 @@ into a library for use in other projects of the cursus.***
      ft_memmove - copy byte string.
      ft_memcpy - copy memory area.
      ft_memccpy - copy string until character found.
-  ```
+ ```
   
 **Functions from `<string.h>` library**
 ```
@@ -96,7 +96,7 @@ into a library for use in other projects of the cursus.***
 ```
   
 **Linked list functions**
-  ```
+```
   ft_lstnew - create new list.
   ft_lstsize - count elements of a list.
   ft_lstlast - find last element of list.
@@ -106,5 +106,5 @@ into a library for use in other projects of the cursus.***
   ft_lstclear - delete sequence of elements of list from a starting point.
   ft_lstiter - apply function to content of all list's elements.
   ft_lstmap - apply function to content of all list's elements into new list.
-  ```
+```
 *Note: functions marked with * are bonus functions (not mandatory by the project's subject).*
