@@ -1,7 +1,7 @@
    # **42cursus' libft**
 
 Development repo for 42cursus' libft project
-For further information about 42cursus and its projects, please refer to 42cursus repo.
+For further information about 42cursus and its projects, please refer to **[42cursus](https://github.com/appinha/42cursus)** repo.
 
 GitHub code size in bytes Number of lines of code Code language count GitHub top language GitHub last commit
 
