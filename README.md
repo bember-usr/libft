@@ -1,13 +1,13 @@
    # **42cursus' libft**
 
-__Development repo for 42cursus' libft project__
+___Development repo for 42cursus' libft project___
 
 For further information about 42cursus and its projects, 
 please refer to **[42cursus](https://github.com/appinha/42cursus)** repo.
 
 
 `🗣️ About`
-The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects.
+> The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects.
 
 For detailed information, refer to the subject of this project.
 
