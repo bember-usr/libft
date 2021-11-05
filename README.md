@@ -1,4 +1,4 @@
-# **42cursus' libft**
+                                                # **42cursus' libft**
 
 Development repo for 42cursus' libft project
 For further information about 42cursus and its projects, please refer to 42cursus repo.
@@ -14,7 +14,7 @@ For detailed information, refer to the subject of this project.
 🚀 TLDR: this project consists of coding basic C functions (see below), which are then compiled
 into a library for use in other projects of the cursus.
 Functions from <ctype.h> library
-ft_isascii - test for ASCII character.
+```ft_isascii - test for ASCII character.
 ft_isalnum - alphanumeric character test.
 ft_isalpha - alphabetic character test.
 ft_islower * - lower-case character test.
@@ -28,7 +28,7 @@ ft_isblank * - space or tab character test.
 ft_ispunct * - punctuation character test.
 ft_iscntrl * - control character test.
 ft_tolower - upper case to lower case letter conversion.
-ft_toupper - lower case to upper case letter conversion.
+ft_toupper - lower case to upper case letter conversion.```
 Functions from <stdlib.h> library
 ft_atoi - convert ASCII string to integer.
 ft_atof * - convert ASCII string to integer.
