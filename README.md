@@ -32,14 +32,11 @@ into a library for use in other projects of the cursus.***
   + ft_toupper - lower case to upper case letter conversion.
 
 **Functions from `<stdlib.h>` library**
-  ```
   - ft_atoi - convert ASCII string to integer.
   - ft_atof * - convert ASCII string to integer.
   - ft_calloc - memory allocation.
-  ```
   
 **Functions from `<strings.h>` library**
-  ```
   * ft_bzero - write zeroes to a byte string.
   * ft_memset - write a byte to a byte string.
   * ft_memchr - locate byte in byte string.
@@ -47,10 +44,8 @@ into a library for use in other projects of the cursus.***
   * ft_memmove - copy byte string.
   * ft_memcpy - copy memory area.
   * ft_memccpy - copy string until character found.
-  ```
   
 **Functions from `<string.h>` library**
-   ```
   + ft_strlen - find length of string.
   + ft_strlen_2 * - find length of 2D array (i.e. splitted string).
   + ft_strchr - locate character in string (first occurrence).
@@ -68,13 +63,10 @@ into a library for use in other projects of the cursus.***
   + ft_strncat * - concatenate strings (s2 into s1, size-bounded).
   + ft_strlcpy - size-bounded string copying.
   + ft_strlcat - size-bounded string concatenation.
-  ```
   
 **Functions from `<math.h>` library**
-   ```
   - ft_sqrt * - square root function.
   - ft_pow * - power function.
-  ```
 
 **Non-standard functions**
   ```
