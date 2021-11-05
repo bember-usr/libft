@@ -5,12 +5,12 @@ For further information about 42cursus and its projects, please refer to 42cursu
 
 GitHub code size in bytes Number of lines of code Code language count GitHub top language GitHub last commit
 
-🗣️ About
+`🗣️ About`
 The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects.
 
 For detailed information, refer to the subject of this project.
 
-🚀 TLDR: this project consists of coding basic C functions (see below), which are then compiled
+`🚀 TLDR`: this project consists of coding basic C functions (see below), which are then compiled
 into a library for use in other projects of the cursus.
 Functions from <ctype.h> library
   ```
