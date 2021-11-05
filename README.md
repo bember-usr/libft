@@ -22,20 +22,20 @@ into a library for use in other projects of the cursus.***
         ft_islower * - lower-case character test.
         ft_isupper * - upper-case character test.
         ft_isdigit - decimal-digit character test.
-        ft_isxdigit * - hexadecimal-digit character test.
+        - ft_isxdigit * - hexadecimal-digit character test.
         ft_isprint - printing character test (space character inclusive).
-        ft_isgraph * - printing character test (space character exclusive).
+        - ft_isgraph * - printing character test (space character exclusive).
         ft_isspace * - white-space character test.
-        ft_isblank * - space or tab character test.
-        ft_ispunct * - punctuation character test.
-        ft_iscntrl * - control character test.
+        - ft_isblank * - space or tab character test.
+        - ft_ispunct * - punctuation character test.
+        - ft_iscntrl * - control character test.
         ft_tolower - upper case to lower case letter conversion.
         ft_toupper - lower case to upper case letter conversion.
  ```
 **Functions from `<stdlib.h>` library**
  ```
         ft_atoi - convert ASCII string to integer.
-        ft_atof * - convert ASCII string to integer.
+        - ft_atof * - convert ASCII string to integer.
         ft_calloc - memory allocation.
  ```  
 **Functions from `<strings.h>` library**
@@ -52,34 +52,34 @@ into a library for use in other projects of the cursus.***
 **Functions from `<string.h>` library**
  ```
         ft_strlen - find length of string.
-        ft_strlen_2 * - find length of 2D array (i.e. splitted string).
+        - ft_strlen_2 * - find length of 2D array (i.e. splitted string).
         ft_strchr - locate character in string (first occurrence).
         ft_strrchr - locate character in string (last occurence).
-        ft_strstr * - locate a substring in a string.
+        - ft_strstr * - locate a substring in a string.
         ft_strnstr - locate a substring in a string (size-bounded).
-        ft_strcmp * - compare strings.
+        - ft_strcmp * - compare strings.
         ft_strncmp * - compare strings (size-bounded).
         ft_strnrcmp - reversely compare strings (size-bounded).
         ft_strcpy * - copy strings.
-        ft_strncpy * - copy strings (size-bounded).
+        - ft_strncpy * - copy strings (size-bounded).
         ft_strdup - save a copy of a string (with malloc).
-        ft_strndup * - save a copy of a string (with malloc, size-bounded).
+        - ft_strndup * - save a copy of a string (with malloc, size-bounded).
         ft_strcat * - concatenate strings (s2 into s1).
-        ft_strncat * - concatenate strings (s2 into s1, size-bounded).
+        - ft_strncat * - concatenate strings (s2 into s1, size-bounded).
         ft_strlcpy - size-bounded string copying.
         ft_strlcat - size-bounded string concatenation.
 ```
 **Functions from `<math.h>` library**
 ```
         ft_sqrt * - square root function.
-        ft_pow * - power function.
+        - ft_pow * - power function.
 ```
 **Non-standard functions**
 ```
-        ft_swap * - swap value of two integers.
+        - ft_swap * - swap value of two integers.
         ft_putchar * - output a character to stdout.
         ft_putchar_fd - output a character to given file.
-        ft_putstr * - output string to stdout.
+        - ft_putstr * - output string to stdout.
         ft_putstr_fd - output string to given file.
         ft_putendl * - output string to stdout with newline.
         ft_putendl_fd - output string to given file with newline.
