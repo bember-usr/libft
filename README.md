@@ -11,9 +11,12 @@ please refer to **[42cursus](https://github.com/appinha/42cursus)** repo.
 
 For detailed information, refer to the [subject](https://github.com/appinha/42cursus/tree/master/_PDFs) of this project.
 
-`🚀 TLDR`: this project consists of coding basic C functions (see below), which are then compiled
-into a library for use in other projects of the cursus.
+`🚀 TLDR`: ***this project consists of coding basic C functions (see below), which are then compiled
+into a library for use in other projects of the cursus.***
+
+``
 Functions from <ctype.h> library
+``
   ```
   ft_isascii - test for ASCII character.
   ft_isalnum - alphanumeric character test.
