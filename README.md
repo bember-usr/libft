@@ -15,6 +15,7 @@ For detailed information, refer to the [subject](https://github.com/appinha/42cu
 into a library for use in other projects of the cursus.***
 
 **Functions from `<ctype.h>` library**
+   ```
      ft_isascii - test for ASCII character.
      ft_isalnum - alphanumeric character test.
      ft_isalpha - alphabetic character test.
@@ -30,13 +31,15 @@ into a library for use in other projects of the cursus.***
      ft_iscntrl * - control character test.
      ft_tolower - upper case to lower case letter conversion.
      ft_toupper - lower case to upper case letter conversion.
-
+   ```
 **Functions from `<stdlib.h>` library**
+   ```
      ft_atoi - convert ASCII string to integer.
      ft_atof * - convert ASCII string to integer.
      ft_calloc - memory allocation.
-  
+   ```  
 **Functions from `<strings.h>` library**
+   ```
      ft_bzero - write zeroes to a byte string.
      ft_memset - write a byte to a byte string.
      ft_memchr - locate byte in byte string.
@@ -44,8 +47,10 @@ into a library for use in other projects of the cursus.***
      ft_memmove - copy byte string.
      ft_memcpy - copy memory area.
      ft_memccpy - copy string until character found.
+  ```
   
 **Functions from `<string.h>` library**
+```
      ft_strlen - find length of string.
      ft_strlen_2 * - find length of 2D array (i.e. splitted string).
      ft_strchr - locate character in string (first occurrence).
@@ -63,12 +68,14 @@ into a library for use in other projects of the cursus.***
      ft_strncat * - concatenate strings (s2 into s1, size-bounded).
      ft_strlcpy - size-bounded string copying.
      ft_strlcat - size-bounded string concatenation.
-  
+  ```
 **Functions from `<math.h>` library**
+```
      ft_sqrt * - square root function.
      ft_pow * - power function.
-
+```
 **Non-standard functions**
+```
   ft_swap * - swap value of two integers.
   ft_putchar * - output a character to stdout.
   ft_putchar_fd - output a character to given file.
@@ -86,7 +93,7 @@ into a library for use in other projects of the cursus.***
   ft_split_free * - free splitted string.
   ft_strmapi - create new string from modifying string with specified function.
   ft_ftoa_rnd - convert float to ASCII string.
-
+```
   
 **Linked list functions**
   ```
