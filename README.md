@@ -50,7 +50,7 @@ into a library for use in other projects of the cursus.***
  ```
   
 **Functions from `<string.h>` library**
-   ```
+ ```
         ft_strlen - find length of string.
         ft_strlen_2 * - find length of 2D array (i.e. splitted string).
         ft_strchr - locate character in string (first occurrence).
@@ -68,7 +68,7 @@ into a library for use in other projects of the cursus.***
         ft_strncat * - concatenate strings (s2 into s1, size-bounded).
         ft_strlcpy - size-bounded string copying.
         ft_strlcat - size-bounded string concatenation.
-  ```
+```
 **Functions from `<math.h>` library**
 ```
         ft_sqrt * - square root function.
