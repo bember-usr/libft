@@ -1,4 +1,4 @@
-#42cursus' libft
+# 42cursus' libft
 _______________________________________________________
 
 Development repo for 42cursus' libft project
