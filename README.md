@@ -90,9 +90,9 @@ into a library for use in other projects of the cursus.***
         ft_strtrim - trim beginning and end of string with the specified characters.
         ft_strjoin - concatenate two strings into a new string (with malloc).
         ft_split - split string, with specified character as delimiter, into an array of strings.
-        ft_split_free * - free splitted string.
+        - ft_split_free * - free splitted string.
         ft_strmapi - create new string from modifying string with specified function.
-        ft_ftoa_rnd - convert float to ASCII string.
+        - ft_ftoa_rnd - convert float to ASCII string.
 ```
   
 **Linked list functions**
