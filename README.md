@@ -108,3 +108,22 @@ into a library for use in other projects of the cursus.***
         ft_lstmap - apply function to content of all list's elements into new list.
 ```
 *Note: functions marked with * are bonus functions (not mandatory by the project's subject).*
+
+# `🛠️ Usage`
+Requirements
+> The library is written in C language and thus needs the gcc compiler and some standard C libraries to run.
+
+Instructions
+   + Compiling the library
+
+    To compile the library, run: ```$ cd path/to/libft && make```
+   + Using it in your code
+
+    To use the library functions in your code, simply include its header:
+   ```
+   #include "libft.h"
+   ```
+    and, when compiling your code, add the required flags:
+   ```
+   -lft -L path/to/libft.a -I path/to/libft.h
+   ```
