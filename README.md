@@ -113,6 +113,8 @@ into a library for use in other projects of the cursus.***
    *Requirements*
 > The library is written in C language and thus needs the **`gcc`** compiler and some standard C libraries to run.
 
+
+
    *Instructions*
 + Compiling the library
     + To compile the library, run: 
