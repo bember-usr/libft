@@ -114,13 +114,12 @@ Requirements
 > The library is written in C language and thus needs the gcc compiler and some standard C libraries to run.
 
 Instructions
-   + Compiling the library
-
++ Compiling the library
     + To compile the library, run: 
     ```
-    $ cd path/to/libft && make
+      $ cd path/to/libft && make
     ```
-   + Using it in your code
++ Using it in your code
 
     + To use the library functions in your code, simply include its header:
    ```
