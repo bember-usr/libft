@@ -116,10 +116,13 @@ Requirements
 Instructions
    + Compiling the library
 
-    To compile the library, run: ```$ cd path/to/libft && make```
+    + To compile the library, run: 
+    ```
+    $ cd path/to/libft && make
+    ```
    + Using it in your code
 
-    To use the library functions in your code, simply include its header:
+    + To use the library functions in your code, simply include its header:
    ```
    #include "libft.h"
    ```
