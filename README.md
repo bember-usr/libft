@@ -110,10 +110,10 @@ into a library for use in other projects of the cursus.***
 *Note: functions marked with * are bonus functions (not mandatory by the project's subject).*
 
 # `🛠️ Usage`
-Requirements
-> The library is written in C language and thus needs the gcc compiler and some standard C libraries to run.
+   *Requirements*
+> The library is written in C language and thus needs the **`gcc`** compiler and some standard C libraries to run.
 
-Instructions
+   *Instructions*
 + Compiling the library
     + To compile the library, run: 
     ```
