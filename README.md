@@ -6,7 +6,7 @@ For further information about 42cursus and its projects,
 please refer to **[42cursus](https://github.com/appinha/42cursus)** repo.
 
 
-### `🗣️ About`
+# `🗣️ About`
 > *The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects.*
 
 For detailed information, refer to the [subject](https://github.com/appinha/42cursus/tree/master/_PDFs) of this project.
